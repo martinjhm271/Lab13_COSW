@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "10701455462",
+    "firebase_url": "https://lab13-e64a5.firebaseio.com",
+    "project_id": "lab13-e64a5",
+    "storage_bucket": "lab13-e64a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10701455462:android:5a087c22e792abf4",
+        "android_client_info": {
+          "package_name": "escuelaing.eci.edu.lab_13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10701455462-e4ngndg5e44rbamvbkm5chujcg9m0kju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU6xuEsexh0cu6yhR8H2kl723yKbKG1Ko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
